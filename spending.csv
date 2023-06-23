@@ -1,0 +1,227 @@
+date,time,category,event,amount,method
+21-06-2023,8:30,Groceries,Buying breakfast items,15,Debit Card
+21-06-2023,12:00,Restaurant,Lunch with friends,20,Credit Card
+21-06-2023,19:00,Entertainment,Movie,12,Credit Card
+21-06-2023,20:30,Food & Drink,Dinner,25,Debit Card
+20-06-2023,9:00,Transport,Bus ticket,2,Debit Card
+20-06-2023,12:30,Restaurant,Lunch,18,Credit Card
+20-06-2023,18:00,Shopping,Clothes,70,Credit Card
+20-06-2023,20:00,Entertainment,Concert ticket,50,Debit Card
+19-06-2023,10:00,Groceries,Weekly shopping,55,Debit Card
+19-06-2023,13:00,Restaurant,Lunch,15,Credit Card
+19-06-2023,19:30,Food & Drink,Takeaway dinner,20,Debit Card
+18-06-2023,8:00,Transport,Taxi ride,10,Credit Card
+18-06-2023,12:45,Restaurant,Brunch,22,Debit Card
+18-06-2023,14:30,Shopping,New shoes,80,Credit Card
+18-06-2023,20:00,Entertainment,Theatre ticket,30,Debit Card
+17-06-2023,9:00,Groceries,Buying breakfast items,20,Debit Card
+17-06-2023,12:00,Restaurant,Lunch with family,60,Credit Card
+17-06-2023,19:00,Food & Drink,Dinner,30,Debit Card
+16-06-2023,8:00,Transport,Train ticket,15,Credit Card
+16-06-2023,12:30,Restaurant,Lunch,15,Debit Card
+16-06-2023,18:00,Shopping,Groceries,45,Credit Card
+16-06-2023,20:00,Entertainment,Cinema ticket,10,Debit Card
+15-06-2023,9:00,Groceries,Buying breakfast items,15,Debit Card
+15-06-2023,13:00,Restaurant,Lunch with colleagues,18,Credit Card
+15-06-2023,19:00,Entertainment,Movie,12,Credit Card
+15-06-2023,20:30,Food & Drink,Dinner,30,Debit Card
+14-06-2023,9:00,Transport,Bus ticket,2,Debit Card
+14-06-2023,12:30,Restaurant,Lunch,20,Credit Card
+14-06-2023,18:00,Shopping,Clothes,80,Credit Card
+14-06-2023,20:00,Entertainment,Concert ticket,60,Debit Card
+13-06-2023,10:00,Groceries,Weekly shopping,60,Debit Card
+13-06-2023,13:00,Restaurant,Lunch,18,Credit Card
+13-06-2023,19:30,Food & Drink,Takeaway dinner,25,Debit Card
+12-06-2023,8:00,Transport,Taxi ride,15,Credit Card
+12-06-2023,12:45,Restaurant,Brunch,20,Debit Card
+12-06-2023,14:30,Shopping,New shoes,90,Credit Card
+12-06-2023,20:00,Entertainment,Theatre ticket,35,Debit Card
+11-06-2023,9:00,Groceries,Buying breakfast items,20,Debit Card
+11-06-2023,12:00,Restaurant,Lunch with family,65,Credit Card
+11-06-2023,19:00,Food & Drink,Dinner,30,Debit Card
+10-06-2023,8:00,Transport,Train ticket,20,Credit Card
+10-06-2023,12:30,Restaurant,Lunch,16,Debit Card
+10-06-2023,18:00,Shopping,Groceries,50,Credit Card
+10-06-2023,20:00,Entertainment,Cinema ticket,12,Debit Card
+09-06-2023,9:00,Groceries,Buying breakfast items,17,Debit Card
+09-06-2023,13:00,Restaurant,Lunch with colleagues,20,Credit Card
+09-06-2023,19:00,Entertainment,Movie,15,Credit Card
+09-06-2023,20:30,Food & Drink,Dinner,35,Debit Card
+08-06-2023,9:00,Transport,Bus ticket,3,Debit Card
+08-06-2023,12:30,Restaurant,Lunch,20,Credit Card
+08-06-2023,19:00,Entertainment,Movie,12,Credit Card
+08-06-2023,20:30,Food & Drink,Dinner,28,Debit Card
+07-06-2023,9:00,Transport,Bus ticket,3,Debit Card
+07-06-2023,12:30,Restaurant,Lunch,19,Credit Card
+07-06-2023,18:00,Shopping,Groceries,45,Credit Card
+07-06-2023,20:00,Entertainment,Concert ticket,45,Debit Card
+06-06-2023,10:00,Groceries,Weekly shopping,55,Debit Card
+06-06-2023,13:00,Restaurant,Lunch,15,Credit Card
+06-06-2023,19:30,Food & Drink,Takeaway dinner,25,Debit Card
+05-06-2023,8:00,Transport,Taxi ride,13,Credit Card
+05-06-2023,12:45,Restaurant,Brunch,20,Debit Card
+05-06-2023,14:30,Shopping,New shoes,75,Credit Card
+05-06-2023,20:00,Entertainment,Theatre ticket,30,Debit Card
+04-06-2023,9:00,Groceries,Buying breakfast items,15,Debit Card
+04-06-2023,12:00,Restaurant,Lunch with family,55,Credit Card
+04-06-2023,19:00,Food & Drink,Dinner,27,Debit Card
+03-06-2023,8:00,Transport,Train ticket,15,Credit Card
+03-06-2023,12:30,Restaurant,Lunch,15,Debit Card
+03-06-2023,18:00,Shopping,Groceries,50,Credit Card
+03-06-2023,20:00,Entertainment,Cinema ticket,10,Debit Card
+02-06-2023,9:00,Groceries,Buying breakfast items,17,Debit Card
+02-06-2023,13:00,Restaurant,Lunch with colleagues,18,Credit Card
+02-06-2023,19:00,Entertainment,Movie,12,Credit Card
+02-06-2023,20:30,Food & Drink,Dinner,25,Debit Card
+01-06-2023,9:00,Transport,Bus ticket,3,Debit Card
+01-06-2023,12:30,Restaurant,Lunch,18,Credit Card
+01-06-2023,18:00,Shopping,Clothes,60,Credit Card
+01-06-2023,20:00,Entertainment,Concert ticket,50,Debit Card
+31-05-2023,10:00,Groceries,Weekly shopping,50,Debit Card
+31-05-2023,13:00,Restaurant,Lunch,16,Credit Card
+31-05-2023,19:30,Food & Drink,Takeaway dinner,22,Debit Card
+30-05-2023,8:00,Transport,Taxi ride,10,Credit Card
+30-05-2023,12:45,Restaurant,Brunch,22,Debit Card
+30-05-2023,14:30,Shopping,New clothes,80,Credit Card
+30-05-2023,20:00,Entertainment,Theatre ticket,30,Debit Card
+29-05-2023,9:00,Groceries,Buying breakfast items,15,Debit Card
+29-05-2023,12:00,Restaurant,Lunch with friends,50,Credit Card
+29-05-2023,19:00,Food & Drink,Dinner,30,Debit Card
+28-05-2023,8:00,Transport,Train ticket,12,Credit Card
+28-05-2023,12:30,Restaurant,Lunch,15,Debit Card
+28-05-2023,18:00,Shopping,Groceries,40,Credit Card
+28-05-2023,20:00,Entertainment,Cinema ticket,8,Debit Card
+27-05-2023,9:00,Groceries,Buying breakfast items,17,Debit Card
+27-05-2023,13:00,Restaurant,Lunch with colleagues,20,Credit Card
+27-05-2023,19:00,Entertainment,Movie,12,Credit Card
+27-05-2023,20:30,Food & Drink,Dinner,24,Debit Card
+26-05-2023,9:00,Transport,Bus ticket,3,Debit Card
+26-05-2023,12:30,Restaurant,Lunch,17,Credit Card
+26-05-2023,18:00,Shopping,Clothes,60,Credit Card
+26-05-2023,20:00,Entertainment,Concert ticket,50,Debit Card
+25-05-2023,10:00,Groceries,Weekly shopping,55,Debit Card
+25-05-2023,13:00,Restaurant,Lunch,16,Credit Card
+25-05-2023,19:30,Food & Drink,Takeaway dinner,23,Debit Card
+24-05-2023,8:00,Transport,Taxi ride,11,Credit Card
+24-05-2023,12:45,Restaurant,Brunch,20,Debit Card
+24-05-2023,14:30,Shopping,New shoes,75,Credit Card
+24-05-2023,20:00,Entertainment,Theatre ticket,30,Debit Card
+23-05-2023,9:00,Groceries,Buying breakfast items,15,Debit Card
+23-05-2023,12:00,Restaurant,Lunch with family,55,Credit Card
+23-05-2023,19:00,Food & Drink,Dinner,27,Debit Card
+23-05-2023,20:00,Entertainment,Cinema ticket,15,Debit Card
+22-05-2023,9:00,Groceries,Buying breakfast items,20,Debit Card
+22-05-2023,13:00,Restaurant,Lunch with colleagues,24,Credit Card
+22-05-2023,19:00,Entertainment,Movie,15,Credit Card
+22-05-2023,20:30,Food & Drink,Dinner,35,Debit Card
+21-05-2023,9:00,Transport,Bus ticket,3,Debit Card
+21-05-2023,12:30,Restaurant,Lunch,22,Credit Card
+21-05-2023,18:00,Shopping,Clothes,100,Credit Card
+21-05-2023,20:00,Entertainment,Concert ticket,80,Debit Card
+20-05-2023,10:00,Groceries,Weekly shopping,65,Debit Card
+20-05-2023,13:00,Restaurant,Lunch,20,Credit Card
+20-05-2023,19:30,Food & Drink,Takeaway dinner,30,Debit Card
+19-05-2023,8:00,Transport,Taxi ride,20,Credit Card
+19-05-2023,12:45,Restaurant,Brunch,25,Debit Card
+19-05-2023,14:30,Shopping,New shoes,120,Credit Card
+19-05-2023,20:00,Entertainment,Theatre ticket,55,Debit Card
+18-05-2023,9:00,Groceries,Buying breakfast items,25,Debit Card
+18-05-2023,12:00,Restaurant,Lunch with family,70,Credit Card
+18-05-2023,19:00,Food & Drink,Dinner,40,Debit Card
+17-05-2023,8:00,Transport,Train ticket,30,Credit Card
+17-05-2023,12:30,Restaurant,Lunch,20,Debit Card
+17-05-2023,18:00,Shopping,Groceries,75,Credit Card
+17-05-2023,20:00,Entertainment,Cinema ticket,15,Debit Card
+16-05-2023,9:00,Groceries,Buying breakfast items,20,Debit Card
+16-05-2023,13:00,Restaurant,Lunch with colleagues,24,Credit Card
+16-05-2023,19:00,Entertainment,Movie,15,Credit Card
+16-05-2023,20:30,Food & Drink,Dinner,35,Debit Card
+15-05-2023,9:00,Transport,Bus ticket,3,Debit Card
+15-05-2023,12:30,Restaurant,Lunch,22,Credit Card
+15-05-2023,18:00,Shopping,Clothes,110,Credit Card
+15-05-2023,20:00,Entertainment,Concert ticket,85,Debit Card
+14-05-2023,10:00,Groceries,Weekly shopping,70,Debit Card
+14-05-2023,13:00,Restaurant,Lunch,20,Credit Card
+14-05-2023,19:30,Food & Drink,Takeaway dinner,30,Debit Card
+13-05-2023,8:00,Transport,Taxi ride,20,Credit Card
+13-05-2023,12:45,Restaurant,Brunch,28,Debit Card
+13-05-2023,14:30,Shopping,New clothes,130,Credit Card
+13-05-2023,20:00,Entertainment,Theatre ticket,55,Debit Card
+12-05-2023,9:00,Groceries,Buying breakfast items,25,Debit Card
+12-05-2023,12:00,Restaurant,Lunch with family,70,Credit Card
+12-05-2023,19:00,Food & Drink,Dinner,40,Debit Card
+11-05-2023,8:00,Transport,Train ticket,30,Credit Card
+11-05-2023,12:30,Restaurant,Lunch,20,Debit Card
+11-05-2023,18:00,Shopping,Groceries,75,Credit Card
+11-05-2023,20:00,Entertainment,Cinema ticket,15,Debit Card
+10-05-2023,9:00,Groceries,Buying breakfast items,22,Debit Card
+10-05-2023,13:00,Restaurant,Lunch with colleagues,26,Credit Card
+10-05-2023,19:00,Entertainment,Movie,15,Credit Card
+10-05-2023,20:30,Food & Drink,Dinner,40,Debit Card
+09-05-2023,9:00,Transport,Bus ticket,3,Debit Card
+09-05-2023,12:30,Restaurant,Lunch,24,Credit Card
+09-05-2023,18:00,Shopping,Clothes,120,Credit Card
+09-05-2023,20:00,Entertainment,Concert ticket,90,Debit Card
+08-05-2023,10:00,Groceries,Weekly shopping,75,Debit Card
+08-05-2023,13:00,Restaurant,Lunch,20,Credit Card
+08-05-2023,19:30,Food & Drink,Takeaway dinner,32,Debit Card
+07-05-2023,8:00,Transport,Taxi ride,20,Credit Card
+07-05-2023,12:45,Restaurant,Brunch,30,Debit Card
+07-05-2023,14:30,Shopping,New shoes,140,Credit Card
+07-05-2023,20:00,Entertainment,Theatre ticket,60,Debit Card
+06-05-2023,9:00,Groceries,Buying breakfast items,28,Debit Card
+06-05-2023,12:00,Restaurant,Lunch with family,75,Credit Card
+06-05-2023,19:00,Food & Drink,Dinner,42,Debit Card
+05-05-2023,8:00,Transport,Train ticket,30,Credit Card
+05-05-2023,12:30,Restaurant,Lunch,24,Debit Card
+04-05-2023,8:00,Transport,Bus ticket,3,Debit Card
+04-05-2023,12:30,Restaurant,Lunch,25,Credit Card
+04-05-2023,18:00,Shopping,Clothes,130,Credit Card
+04-05-2023,20:00,Entertainment,Concert ticket,95,Debit Card
+03-05-2023,10:00,Groceries,Weekly shopping,80,Debit Card
+03-05-2023,13:00,Restaurant,Lunch,22,Credit Card
+03-05-2023,19:30,Food & Drink,Takeaway dinner,35,Debit Card
+02-05-2023,8:00,Transport,Taxi ride,22,Credit Card
+02-05-2023,12:45,Restaurant,Brunch,32,Debit Card
+02-05-2023,14:30,Shopping,New clothes,150,Credit Card
+02-05-2023,20:00,Entertainment,Theatre ticket,65,Debit Card
+01-05-2023,9:00,Groceries,Buying breakfast items,30,Debit Card
+01-05-2023,12:00,Restaurant,Lunch with family,80,Credit Card
+01-05-2023,19:00,Food & Drink,Dinner,45,Debit Card
+30-04-2023,8:00,Transport,Train ticket,33,Credit Card
+30-04-2023,12:30,Restaurant,Lunch,25,Debit Card
+30-04-2023,18:00,Shopping,Groceries,85,Credit Card
+30-04-2023,20:00,Entertainment,Cinema ticket,17,Debit Card
+29-04-2023,9:00,Groceries,Buying breakfast items,25,Debit Card
+29-04-2023,13:00,Restaurant,Lunch with colleagues,28,Credit Card
+29-04-2023,19:00,Entertainment,Movie,17,Credit Card
+29-04-2023,20:30,Food & Drink,Dinner,45,Debit Card
+28-04-2023,9:00,Transport,Bus ticket,4,Debit Card
+28-04-2023,12:30,Restaurant,Lunch,25,Credit Card
+28-04-2023,18:00,Shopping,Clothes,140,Credit Card
+28-04-2023,20:00,Entertainment,Concert ticket,100,Debit Card
+27-04-2023,10:00,Groceries,Weekly shopping,90,Debit Card
+27-04-2023,13:00,Restaurant,Lunch,25,Credit Card
+27-04-2023,19:30,Food & Drink,Takeaway dinner,38,Debit Card
+26-04-2023,8:00,Transport,Taxi ride,25,Credit Card
+26-04-2023,12:45,Restaurant,Brunch,35,Debit Card
+26-04-2023,14:30,Shopping,New shoes,160,Credit Card
+26-04-2023,20:00,Entertainment,Theatre ticket,70,Debit Card
+25-04-2023,9:00,Groceries,Buying breakfast items,35,Debit Card
+25-04-2023,13:00,Restaurant,Lunch with colleagues,30,Credit Card
+25-04-2023,19:00,Entertainment,Movie,20,Credit Card
+25-04-2023,20:30,Food & Drink,Dinner,50,Debit Card
+24-04-2023,9:00,Transport,Bus ticket,4,Debit Card
+24-04-2023,12:30,Restaurant,Lunch,28,Credit Card
+24-04-2023,18:00,Shopping,Clothes,150,Credit Card
+24-04-2023,20:00,Entertainment,Concert ticket,110,Debit Card
+23-04-2023,10:00,Groceries,Weekly shopping,95,Debit Card
+23-04-2023,13:00,Restaurant,Lunch,30,Credit Card
+23-04-2023,19:30,Food & Drink,Takeaway dinner,40,Debit Card
+22-04-2023,8:00,Transport,Taxi ride,30,Credit Card
+22-04-2023,12:45,Restaurant,Brunch,40,Debit Card
+22-04-2023,14:30,Shopping,New clothes,180,Credit Card
+22-04-2023,20:00,Entertainment,Theatre ticket,80,Debit Card
+21-04-2023,9:00,Groceries,Buying breakfast items,40,Debit Card
+21-04-2023,12:00,Restaurant,Lunch with family,90,Credit Card
+21-04-2023,19:00,Food & Drink,Dinner,50,Debit Card
